@@ -1,2 +1,2 @@
 # ssh-public-keys
-SSH Keys des Freifunk Siegburg Core-Teams 
+SSH Keys des Freifunk Rhein-Sieg Core-Teams 
